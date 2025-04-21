@@ -99,7 +99,3 @@ pip install -r requirements.txt
 
 ---
 
-## TODO
-- Add mAP, Precision, Recall plots.
-- Extend to multi-class vehicle classification (e.g., car, van, bus, truck).
-- Try Faster R-CNN or DETR for comparison.
