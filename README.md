@@ -69,12 +69,10 @@ This project applies the YOLO (You Only Look Once) object detection framework to
 
 ## Results
 
-| Metric | Before Optimization | After Optimization |
-| :----- | :------------------- | :----------------- |
-| mAP@0.5 | (to be filled) | (to be filled) |
-| mAP@0.5:0.95 | (to be filled) | (to be filled) |
-| Precision | (to be filled) | (to be filled) |
-| Recall | (to be filled) | (to be filled) |
+| Version | Precision Mean | Recall Mean | F1 Mean | F1 Variance |
+| :------ | :------------- | :---------- | :------ | :---------- |
+| Before Optimization | 0.6329 | 0.6390 | 0.6260 | 0.0213 |
+| After Filtering | 0.7815 | 0.6172 | 0.6884 | 0.0166 |
 
 _(Tip: Fill the table with your real experimental results.)_
 
