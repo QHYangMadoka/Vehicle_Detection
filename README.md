@@ -162,11 +162,11 @@ Double-click `app.exe` to launch the application.
 
 ### Original Video Demo
 
-![Original Video](pic/video.gif)
+![Original Video](pics/video.gif)
 
 ### Processed Video with Detections
 
-![Processed Video](pic/processed_video.gif)
+![Processed Video](pics/processed_video.gif)
 
 ---
 
