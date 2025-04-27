@@ -158,7 +158,7 @@ Double-click `app.exe` to launch the application.
 
 ### Interface
 
-![Interface](pic/interface.png)
+![Interface](pics/interface.png)
 
 ### Original Video Demo
 
