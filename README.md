@@ -100,7 +100,6 @@ The app supports:
 | 1 | `app.py` | Main application source code |
 | 2 | `models/best.pt` | Pretrained YOLOv8 model weights |
 | 3 | `requirements.txt` | Python environment requirements |
-| 4 | `pic/` | Interface screenshots and demo videos |
 
 ---
 
@@ -125,9 +124,10 @@ Required Python packages:
 
 ### 1. Launch the Application
 
-```bash
-python app.py
-```
+After building the project with `pyinstaller`, go to the `dist/app/` folder, where you will find `app.exe`.
+Make sure the `models/` folder (containing `best.pt`) is placed inside `dist/app/`.
+
+Double-click `app.exe` to launch the application.
 
 ### 2. User Interface
 
